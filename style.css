@@ -1,0 +1,18 @@
+.conteiner {
+  width: 1170px;
+  margin: 0 auto;
+  border: 5px solid black;
+}
+.d-flex {
+  display: flex;
+}
+/* .header-style */
+header {
+  height: 80px;
+  background-color: bisque;
+}
+.h-logo a {
+  font-size: 40px;
+  color: red;
+  text-transform: capitalize;
+}
